@@ -36,3 +36,7 @@ Team Zelda:
 - Tan Ziheng
 
 If there are any questions, do not hesitate to contact our team at clairelimjiaying@ntudsc.com.
+
+Tested by:
+
+- Aug 3, 2021: Meng Wang (meng.wang@seagate.com, mengwanguc@gmail.com) using OVA release 1.0.4 on Windows 10 running VMware Workstation 16 Player for running Cortx, and using Ubuntu 20.04 VM on Winsows 10 running VMware Workstation 16 Player for running Goofys and Chia.
