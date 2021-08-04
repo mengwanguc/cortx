@@ -110,3 +110,7 @@ Thank you for the opportunity to integrate crypto with CORTX!
 ## Contributors
 
 Claire, Sung Won and Rosminy :tada: :tada: :tada:
+
+Tested by:
+
+- Aug 3, 2021: Meng Wang (meng.wang@seagate.com, mengwanguc@gmail.com) using OVA release 1.0.4 on Windows 10 running VMware Workstation 16 Player for running Cortx, and using Ubuntu 20.04 VM on Winsows 10 running VMware Workstation 16 Player for running Goofys and Chia.
